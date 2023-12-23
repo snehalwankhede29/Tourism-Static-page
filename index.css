@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.card{
+    background-image: url("maldives.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+}
+.card2{
+    text-align: center;
+    background-color: antiquewhite;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    height: 20vh;
+    width: 100vw;
+    padding: 20px;
+}
+.heading{
+    color: blue;
+    font-size:80px;
+}
+.btn{
+    color: brown;
+    border-radius: 20px;
+    width: 90px;
+    height: 20px;
+}
+.para{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
